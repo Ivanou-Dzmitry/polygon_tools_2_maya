@@ -1,0 +1,4 @@
+//PolygonTools
+string $myScriptDir = `internalVar -userScriptDir`+ "/polygontools_24i.bmp";
+//PolygonTools
+
